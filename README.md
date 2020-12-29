@@ -1,5 +1,6 @@
 # Card-Game
 A simple card game using stacks.
+Creator: Bulbul Arora
 Project for: Object-Oriented Design course
 Instructor: Mikhail Shchukin
 Department of Computer Science
